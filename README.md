@@ -1,4 +1,4 @@
-# Codewithvenkat
+# Optimised hidden layer neurons
 Determining the optimal number of neurons in the hidden layer for an Artificial Neural Network (ANN) is a crucial step in model development. Various approaches exist, but no recognised rule for determining each layer's exact number of neurons exists. 
 
 This study employed the root mean square error (RMSE) as a performance metric for the ANN model. A MATLAB code was implemented to evaluate the model's performance for a range of neurons in the hidden layer from 1 to 60. The minimal RMSE error identified the optimized number of hidden layer neurons.
